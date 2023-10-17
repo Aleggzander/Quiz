@@ -10,5 +10,5 @@
     <string name="q_find_resources">Do zasobow w aplikacji dla systemu android odnosimy sie po nazwach</string>
     <string name="correct_answer">POPRAWNA ODPOWIEDŹ BRAWO!!</string>
     <string name="incorrect_answer">BŁĘDNA ODPOWIEDŹ</string>
-    <string name="score_text_view">Wynik</string>
+
 </resources>
