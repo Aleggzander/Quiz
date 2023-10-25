@@ -10,5 +10,9 @@
     <string name="q_find_resources">Do zasobow w aplikacji dla systemu android odnosimy sie po nazwach</string>
     <string name="correct_answer">POPRAWNA ODPOWIEDŹ BRAWO!!</string>
     <string name="incorrect_answer">BŁĘDNA ODPOWIEDŹ</string>
+    <string name="podpowiedz_text">CZY CHCESZ OTRZYMAĆ PODPOWIEDŹ?</string>
+    <string name="button_prompt">POKAŻ ODPOWIEDŹ</string>
+    <string name="podpowiedz">PODPOWIEDZ</string>
+    <string name="answer_was_shown">ODPOWIEDZ BYLA JUZ WYSWIETLONA</string>
 
 </resources>
